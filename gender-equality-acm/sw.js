@@ -11,6 +11,7 @@ var filesToCache = [
   '/css/style.css',
   '/css/materialize.min.css',
   '/js/common.js',
+  '/js/main.js',
   '/js/materialize.min.js'
 ];
 
